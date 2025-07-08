@@ -78,8 +78,8 @@ export default tseslint.config([
 | -------------------------------------------------------- | ------ |
 | Scaffold project with Vite + React + TypeScript          | ✅ / 🔲 |
 | Add Tailwind CSS for styling                             | ✅ / 🔲 |
-| Add React Router DOM                                     | 🔲     |
-| Add Redux Toolkit and set up store                       | 🔲     |
+| Add React Router DOM                                     | ✅     |
+| Add Redux Toolkit and set up store                       | ✅     |
 | Add Axios for API requests                               | 🔲     |
 | Set up absolute imports (optional, e.g., `@/components`) | 🔲     |
 | Configure Prettier & ESLint                              | 🔲     |
